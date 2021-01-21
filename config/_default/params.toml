@@ -12,7 +12,7 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Alex Alvergne CNRS Evolution Ecology Health"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -63,7 +63,7 @@ address = "Université de Montpellier - Place Eugène Bataillon - CC045 34 095 M
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 # contact_links = [
-#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = #"skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", #link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", #link = "https://discourse.gohugo.io"},
