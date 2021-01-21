@@ -1,7 +1,7 @@
 title: Academia
 description: "Alex Alvergne CNRS"
-baseURL: https://alexalvergne-cnrs.netlify.app
-copyright: Copyright &copy; {2021}
+baseURL: "https://alexalvergne-cnrs.netlify.app/"
+copyright: Copyright &copy; {date}
 googleAnalytics: ''
 disqusShortname: ''
 theme: academia-hugo
