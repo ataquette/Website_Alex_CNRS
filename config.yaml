@@ -1,5 +1,6 @@
 title: Academia
-baseURL: https://examplesite.org
+description: "Alex Alvergne CNRS"
+baseURL: https://alexalvergne-cnrs.netlify.app
 copyright: Copyright &copy; {year}
 googleAnalytics: ''
 disqusShortname: ''

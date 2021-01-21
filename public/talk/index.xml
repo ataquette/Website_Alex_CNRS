@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Academia</title>
+    <link>https://examplesite.org/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Academia</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cultural change beyond adoption dynamics *the case of the discontinuation of modern contraception*</title>
+      <link>https://examplesite.org/talk/paris/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/talk/paris/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using academia&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is Female Health Cyclical? Evolutionary Perspectives on Menstruation</title>
+      <link>https://examplesite.org/talk/lausanne/</link>
+      <pubDate>Tue, 01 Dec 2020 13:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/talk/lausanne/</guid>
+      <description>&lt;p&gt;Why do women menstruate at all ? In this talk, I will draw on an evolutionary medicine approach to argue that to understand female health, both reproductive and non-reproductive, it is critical to ask this question. First, I will introduce current evolutionary hypotheses for explaining why women have periods, and the implications of an evolutionary approach for understanding the tight links between reproductive function and organismal immunity. Second, I will discuss an empirical study testing the idea that negative premenstrual symptoms may be exacerbated by the presence of chronic sexually transmitted infections (STIs). Third, I will present a review assessing the evidence for cyclical immunity and health across the menstrual cycle, discussing potential ecological drivers and evolutionary consequences. I will conclude by calling for a shift towards a cyclical model for female health, which I contend will contribute new questions for biomedicine, public health, and evolutionary ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cultural Change beyond Adoption Dynamics the case of Modern Contraception</title>
+      <link>https://examplesite.org/talk/durham/</link>
+      <pubDate>Sun, 01 Nov 2020 18:40:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/talk/durham/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using academia&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

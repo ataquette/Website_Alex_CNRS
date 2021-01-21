@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Academia</title>
+    <link>https://examplesite.org/post/</link>
+    <description>Recent content in Posts on Academia</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Premenstrual Syndrome &amp; Infection</title>
+      <link>https://examplesite.org/post/pms/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/post/pms/</guid>
+      <description>&lt;h2 id=&#34;undiagnosed-stis-can-increase-negative-pms-symptoms&#34;&gt;Undiagnosed STIs can increase negative pms symptoms&lt;/h2&gt;
+&lt;h3 id=&#34;women-that-have-undiagnosed-sexually-transmitted-infections-may-be-at-greater-risk-of-experiencing-negative-premenstrual-symptoms-pms&#34;&gt;Women that have undiagnosed sexually transmitted infections may be at greater risk of experiencing negative premenstrual symptoms (PMS)&lt;/h3&gt;
+&lt;p&gt;The study was conducted as part of a long term partnership with the female health, fertility and period-tracking app, CLUE. The findings, &lt;a href=&#34;https://academic.oup.com/emph/article/2018/1/138/5048464&#34;&gt;published in Evolution Medicine &amp;amp; Public Health&lt;/a&gt;, suggest that the presence of an undiagnosed STI might aggravate the negative premenstrual experience.&lt;/p&gt;
+&lt;p&gt;Despite being known to have an anti-social effect on women’s lives, altering their moods, energy levels, eating habits and even sex drive, periods are not recognised as a scientific factor in the study of female health. However, since some STI infections are asymptomatic, for instance 70% of people diagnosed with Chlamydia are unaware of it, and can lead to fertility issues, the study authors caution that these results are significant, and that reproductive health needs to be taken more seriously by both the scientific community and women in general.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ox.ac.uk/news/2018-09-17-undiagnosed-stis-can-increase-negative-pms-symptoms&#34;&gt;See the full press release here &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survey on Periods, Lock Down and COVID</title>
+      <link>https://examplesite.org/post/covid-study/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/post/covid-study/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;We need you!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://oxfordanthropology.eu.qualtrics.com/jfe/form/SV_8bHC9OHudZtahaB&#34;&gt;Check out our latest &lt;strong&gt;survey&lt;/strong&gt;&lt;/a&gt; to help us understand better how the pandemic has influenced our menstrual cycles.&lt;/p&gt;
+&lt;p&gt;Whether you are currently menstruating, pregnant, breastfeeding, on contraceptives, HRT, or having menopause, no matter whether or not you&amp;rsquo;ve been infected with COVID, &lt;strong&gt;you can help&lt;/strong&gt;!!!!&lt;/p&gt;
+&lt;p&gt;If you are using a &lt;strong&gt;menstrual cycle app&lt;/strong&gt; and are willing to share your data for research purposes only - you can also contact me directly - I am looking for digital health data collected before and during the pandemic.&lt;/p&gt;
+&lt;p&gt;Thank you very much indeed!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The central theoretical problem of sociobiology not a problem after all?</title>
+      <link>https://examplesite.org/post/mongolia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/post/mongolia/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;women-are-more-driven-to-seek-wealth-and-status-than-they-are-to-reproduce&#34;&gt;Women are more driven to seek wealth and status than they are to reproduce&lt;/h2&gt;
+&lt;p&gt;Classical ideas of evolution suggest fertility should increase as limitations enforced by scarce resources are removed allowing genes to be passed on through reproduction. These ideas seem to suggest that as wealth and status increase fertility should increase. However, recent patterns show that there is a negative relationship between access to resources and fertility. Researchers behind &lt;a href=&#34;https://royalsocietypublishing.org/doi/full/10.1098/rspb.2014.1733?rss=1&#34;&gt;this study&lt;/a&gt; say wealthier and socially successful women are choosing to have smaller families, showing a drive for ‘status enhancement rather than fertility maximisation’.&lt;/p&gt;
+&lt;p&gt;See the full press release &lt;a href=&#34;https://royalsociety.org/news/2014/study-investigates-how-mongolian-fertility-is-linked-to-wealth/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://examplesite.org/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://examplesite.org/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+&lt;link href=&#34;https://examplesite.org/post/2015-07-23-r-rmarkdown/index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://examplesite.org/post/2015-07-23-r-rmarkdown/index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;https://examplesite.org/post/2015-07-23-r-rmarkdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://examplesite.org/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/courses/example.1/example3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/courses/example.2/example3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/courses/example.1/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/courses/example.2/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/courses/example.2/example4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/courses/example.1/example4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/talk/paris/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/talk/lausanne/</loc>
+    <lastmod>2020-12-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/talk/durham/</loc>
+    <lastmod>2020-11-01T18:40:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/2020-11-16-collaborations/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/admin/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/cyclical-immunity/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/digital-health/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/evolutionary-public-health/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/pms/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/post/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/post/pms/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/sti/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/contraceptive-side-effects/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/contraceptives/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/ethiopia/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/evolutionary-medicine/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/family-ecology/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/family-ecology-matrilineal-society/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/family-planning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/female-health/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/human-reproductive-ecology/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/india/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/menstrual_messages/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/menstruation/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/periods/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/reproductive-health/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/menopause/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/thyroid/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/thyroid-health/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/uk/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/covid-19/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/demographic-transition/</loc>
+    <lastmod>2014-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/embodied-capital/</loc>
+    <lastmod>2014-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/evolutionary-demography/</loc>
+    <lastmod>2014-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/fertility/</loc>
+    <lastmod>2014-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/market-economy/</loc>
+    <lastmod>2014-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/menstrual-cycle-apps/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/menstrual-health/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/post/covid-study/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/post/mongolia/</loc>
+    <lastmod>2014-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication_types/2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication_types/3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/abby-fraser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/alex-alvergne/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication/journal-article/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/blandine-malbos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/cathy-johnman/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/elise-whitley/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/eshetu-gurmu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/jeremie-riou/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication/conference-paper/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/rose-stevens/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/sarai-keestra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/source-themes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication/preprint/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/vedrana-hogqvist-tabor/</loc>
+  </url>
+  
+</urlset>

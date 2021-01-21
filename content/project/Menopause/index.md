@@ -7,7 +7,7 @@ image:
 summary: Understanding patterns of diversity in age at menopause
 tags:
 - UK
-- Evolutionary Medicine
+- Evolutionary Public Health
 - Female Health
 - Reproductive Health
 title: The Evolutionary Ecology of Menopause
