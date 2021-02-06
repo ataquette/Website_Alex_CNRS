@@ -42,9 +42,9 @@ hero_media = "AlexPTalk.png"
   label = "Contact me"
 
 +++
-## **Alex Alvergne - [CNRS](http://www.cnrs.fr/en) Research Fellow** specializing in **Human Evolutionary Ecology**
+## **Alex Alvergne - [CNRS](http://www.cnrs.fr/en) Research Scientist** in Evolution, Ecology and Health
 
-My research focuses on understanding the relationship between reproduction and health in contemporary human populations. Most recently, I have been working on contraceptive dynamics using ecological and cultural evolution approaches.
+My research focuses on understanding the relationships between reproduction and health in contemporary human populations. Most recently, I have been working on contraceptive dynamics and menstrual health.
 
 
 

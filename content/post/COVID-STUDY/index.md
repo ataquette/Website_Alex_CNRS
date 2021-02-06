@@ -12,13 +12,15 @@ image:
 lastmod: "2020-11-15T00:00:00Z"
 projects: []
 subtitle: 'Take part to our study'
-summary: We know very little about the relationship between COVID and menstrual health. You can change that by taking our survey! 
+summary: We know very little about the relationship between the pandemic and menstrual health. You can change that by taking our survey! 
 tags:
+- lockdown
+- pandemic
 - COVID-19
 - menstrual health
 - periods
-- menstrual cycle apps
-title: 'Survey on Periods, Lock Down and COVID'
+- period tracker apps
+title: 'Survey on the pandemic and menstrual health'
 ---
 
 **We need you!!**
@@ -27,6 +29,6 @@ title: 'Survey on Periods, Lock Down and COVID'
 
 Whether you are currently menstruating, pregnant, breastfeeding, on contraceptives, HRT, or having menopause, no matter whether or not you've been infected with COVID, **you can help**!!!!
 
-If you are using a **menstrual cycle app** and are willing to share your data for research purposes only - you can also contact me directly - I am looking for digital health data collected before and during the pandemic. 
+If you are using a **period tracker app** and are willing to share your data for research purposes only - you can also contact me directly - I am looking for digital health data collected before and during the pandemic. 
 
-Thank you very much indeed!
+Thank you :)

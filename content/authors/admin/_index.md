@@ -1,12 +1,12 @@
 ---
 authors:
 - admin
-avatar_image: AlexLouis.png
-bio:  My research interests span the fields of Evolution, Ecology, Anthropology, Public Health and Medicine. 
+avatar_image: "AlexLouis.jpg"
+#bio:  My research interests span the fields of Evolution, Ecology, Anthropology, Public Health and Medicine. 
 btn:
 #- label: Download Resume
 #  url: https://sourcethemes.com/academic/docs/install/
-display_education: true
+display_education: false
 education:
   courses:
   - course: Teaching Fellowship in the Humanities & Social Sciences
@@ -30,9 +30,9 @@ interests:
 - Cultural evolution
 name: Alex Alvergne
 organizations:
-- name: French National Center for Scientific Research (CNRS)
+- name: French National Centre for Scientific Research (CNRS)
   url: ""
-role: Research Scientist in Evolutionary Anthropology
+role: Research Scientist in Evolution, Ecology and Health
 social:
 - icon: envelope
   icon_pack: fas
@@ -60,9 +60,10 @@ I seek to understand the role of the environment, be it social, cultural or path
 - What is the impact of infection on menstrual health ?
 - How can we understand diversity in age at menopause ?
 - What is the impact of reproduction on ageing ?
-To answer those questions, I use various types of data (demographic, physiological, social networks, behavioural) from constrasted populations (the UK, India, Ethiopia and France).
 
-I work with digital data (from the [Clue](https://helloclue.com/) & [BOOST Thyroid](https://www.boostthyroid.com/) apps), conduct fieldwork in India and Ethiopia, and collaborate with colleagues across various countries. 
+To answer those questions, I use mixed methods (from the social sciences and biology) and analyse data from constrasted populations.
+
+I also collaborate with partners from the digital world ([Clue](https://helloclue.com/) & [BOOST Thyroid](https://www.boostthyroid.com/) apps) and universities in India, Ethiopia and the UK.
 
 Before joining [CNRS](http://www.cnrs.fr/en), I have been an Associate Professor at the University of Oxford in the [School of Anthropology and Museum Ethnography](https://www.anthro.ox.ac.uk/), and a Fellow of [Harris Manchester College](http://www.hmc.ox.ac.uk/). 
 
