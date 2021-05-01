@@ -52,20 +52,21 @@ user_groups:
 - Visitors
 ---
 
-Since 2020 I have joined the Evolutionary Anthropology Lab in the [Institute for Evolutionary Sciences](http://www.isem.univ-montp2.fr/en/) (Montpellier University, France).
+Since 2020 I have joined the Evolutionary Anthropology Lab in the [Institute for Evolutionary Sciences](http://www.isem.univ-montp2.fr/en/) ([Montpellier University](https://www.umontpellier.fr/en/), France).
 
 I seek to understand the role of the environment, be it social, cultural or pathogenic, in shaping diversity in reproductive and non-reproductive health. Some of the questions I am currently interested in are :
 
+- What is the relationship between the COVID-19 pandemic and menstrual cycles?
 - Why do women discontinue modern contraception whilst in need of contraceptives ?
 - What is the impact of infection on menstrual health ?
 - How can we understand diversity in age at menopause ?
 - What is the impact of reproduction on ageing ?
 
-To answer those questions, I use mixed methods (from the social sciences and biology) and analyse data from constrasted populations.
+To answer those questions, I use mixed methods (from the social sciences and biology) and analyse data from contrasted populations.
 
 I also collaborate with partners from the digital world ([Clue](https://helloclue.com/) & [BOOST Thyroid](https://www.boostthyroid.com/) apps) and universities in India, Ethiopia and the UK.
 
-Before joining [CNRS](http://www.cnrs.fr/en), I have been an Associate Professor at the University of Oxford in the [School of Anthropology and Museum Ethnography](https://www.anthro.ox.ac.uk/), and a Fellow of [Harris Manchester College](http://www.hmc.ox.ac.uk/). 
+Before joining [CNRS](http://www.cnrs.fr/en), I was an Associate Professor in Biocultural Anthropology at the University of Oxford in the [School of Anthropology and Museum Ethnography](https://www.anthro.ox.ac.uk/), and a Fellow of [Harris Manchester College](http://www.hmc.ox.ac.uk/). 
 
-I serve as an associate editor for the journal [*Evolutionary Human Sciences*](https://www.cambridge.org/core/journals/evolutionary-human-sciences)
+I serve as an associate editor for the journal [*Evolutionary Human Sciences*](https://www.cambridge.org/core/journals/evolutionary-human-sciences) and as a review editor for the journal [*frontiers in Reproductive Health*](https://www.frontiersin.org/journals/reproductive-health#). 
 
