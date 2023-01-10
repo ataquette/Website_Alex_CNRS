@@ -1,25 +1,26 @@
 ---
-authors:
-- admin
+title: "Premenstrual Syndrome & Infection"
 categories: []
 date: "2019-02-05T00:00:00Z"
-lastmod: "2018-09-17T00:00:00Z"
-draft: false
-featured: true
+output: pdf_document
+draft: no
+featured: yes
 image:
-  caption: 'Image credit: [** by Female Hub on Flickr*](https://www.flickr.com/photos/femalehub/27686201844/in/photolist-Jbx2eE-BBAzrp-BBADje-WGcJwc-CyZ8nB-hKdEpj-2grEA2P-2SUdq-2ggGqdn-qbefAp-5BEBcK-LsPX8J-xZDKb-qwS9nh-2hpPxZA-e1FUEm-JZn2f5-a87PpF-xZDK9-z5rkf3-qM9qa1-xZA6i-qzTosk-2jkF9fW-8yCEg8-2jkF9fv-5WFMty-5x5Wa-xZA6c-nSWfi7-owdNcd-bk45vx-5DtnE7-8BKAhC-9KjgLm-SUjxeU-cySyXm-2gm7sKE-2iXW3Qy-a8xHue-avHYA5-aFf72q-2h4sGsx-nUNewR-9KjgmJ-6mXCuP-eoJMc1-53WC9Q-bwbfV4-2hoGfQ4/)'
-  focal_point: ""
-  preview_only: false
+  caption: "Image credit: [** by Female Hub on Flickr*](https://www.flickr.com/photos/femalehub/27686201844/in/photolist-Jbx2eE-BBAzrp-BBADje-WGcJwc-CyZ8nB-hKdEpj-2grEA2P-2SUdq-2ggGqdn-qbefAp-5BEBcK-LsPX8J-xZDKb-qwS9nh-2hpPxZA-e1FUEm-JZn2f5-a87PpF-xZDK9-z5rkf3-qM9qa1-xZA6i-qzTosk-2jkF9fW-8yCEg8-2jkF9fv-5WFMty-5x5Wa-xZA6c-nSWfi7-owdNcd-bk45vx-5DtnE7-8BKAhC-9KjgLm-SUjxeU-cySyXm-2gm7sKE-2iXW3Qy-a8xHue-avHYA5-aFf72q-2h4sGsx-nUNewR-9KjgmJ-6mXCuP-eoJMc1-53WC9Q-bwbfV4-2hoGfQ4/)"
+  focal_point: ''
+  preview_only: no
 projects: []
-subtitle: 'A study on STI and premenstrual well-being'
-summary: Women that have undiagnosed sexually transmitted infections may be at greater risk of experiencing negative premenstrual symptoms (PMS)
+subtitle: "A study on STI and premenstrual well-being"
+summary: Women that have undiagnosed sexually transmitted infections may be at greater
+  risk of experiencing negative premenstrual symptoms (PMS)
 tags:
 - digital health
 - evolutionary public health
 - PMS
 - cyclical immunity
 - STI
-title: Premenstrual Syndrome & Infection
+authors: admin
+lastmod: "2018-09-17T00:00:00Z"
 ---
 
 
