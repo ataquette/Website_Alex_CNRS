@@ -21,6 +21,8 @@ tags:
 title: 'New review paper on Covid-19 and cycles'
 ---
 
-Really glad to have taken part to the first review paper on the pandemic and menstrual cycles, whicb is now out! The lead author, Dr Gemma Sharp, from the University of Bristol, has put together a press release you can find [here](https://www.bristol.ac.uk/news/2021/november/covid-and-menstrual-changes.html). I have also included some excerpt below
+Really glad to have taken part to the first review paper on the pandemic and menstrual cycles, which is now out! 
+
+The lead author, Dr Gemma Sharp, from the University of Bristol, has put together a press release you can find [here](https://www.bristol.ac.uk/news/2021/november/covid-and-menstrual-changes.html). I have also included some excerpt below
 
 "Researchers from the universities of Bristol, Edinburgh and Oxford sought to evaluate the existing anecdotal and scientific literature on menstrual cycle feature changes in the COVID-19 pandemic and provide suggestions for future research. They conducted a comprehensive review of current literature and found just 12 studies that had reported on menstrual changes in relation to the pandemic in general and/or COVID-19 specifically. None of the COVID-19 vaccine trials has collected data on menstrual changes." !!!
